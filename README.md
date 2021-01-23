@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Robo-Mobile project
 
-You can use the [editor on GitHub](https://github.com/robo-mobile/robo-mobile.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Robo-Mobile - this is a project for peoples who love robotics and engineering 
+Look to our repositories. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### PWM MANAGE
+[pwm_manage](https://github.com/robo-mobile/pwm_manage) - utility for driving engine 
 
-### Markdown
+### Robot Signal Server
+[robot-signal-server](https://github.com/robo-mobile/robot-signal-server) - signal server for Web-RTC protocol
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Video
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/robo-mobile/robo-mobile.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w3UnxZg2EH0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
